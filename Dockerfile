@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/pause:3.1
+FROM gcr.io/google-containers/etcd:3.2.24
