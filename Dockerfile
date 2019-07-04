@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/addon-resizer:1.8.5
+FROM gcr.io/google-containers/nginx:latest
