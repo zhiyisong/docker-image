@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/nginx:latest
+FROM gcr.io/google-containers/kube-apiserver:v1.17.3
