@@ -1,2 +1,1 @@
-FROM gcr.io/google-containers/kube-controller-manager:v1.17.3
-
+FROM  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.30.0
