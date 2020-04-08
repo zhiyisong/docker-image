@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/pause:3.2
+FROM k8s.gcr.io/coredns:1.6.7
