@@ -1,2 +1,2 @@
-FROM quay.io/coreos/flannel:v0.12.0-amd64
+FROM quay.io/coreos/prometheus-operator:v0.38.0
 
