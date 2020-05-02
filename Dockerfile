@@ -1,2 +1,1 @@
-FROM quay.io/coreos/prometheus-operator:v0.38.0
-
+FROM quay.io/coreos/kube-state-metrics:v1.9.5
