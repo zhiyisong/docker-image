@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-state-metrics:v1.9.5
+FROM k8s.gcr.io/kube-apiserver:v1.19.2
