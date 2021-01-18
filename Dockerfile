@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.13.0-rc2
+FROM k8s.gcr.io/metrics-server-amd64:v0.3.6
