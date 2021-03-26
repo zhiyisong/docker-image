@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.32.0
+FROM jettech/kube-webhook-certgen:v1.2.0
