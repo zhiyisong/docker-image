@@ -1,1 +1,1 @@
-FROM quay.io/prometheus-operator/prometheus-operator:v0.46.0
+FROM quay.io/brancz/kube-rbac-proxy:v0.8.0
