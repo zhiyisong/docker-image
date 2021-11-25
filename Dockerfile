@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.21.0
+FROM bitnami/zookeeper:3.7.0-debian-10-r185
