@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/zookeeper:3.7.0-debian-10-r185
+FROM k8s.gcr.io/pause-amd64:3.1
